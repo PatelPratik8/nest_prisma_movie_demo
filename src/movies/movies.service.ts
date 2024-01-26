@@ -1,5 +1,4 @@
 import { Injectable } from "@nestjs/common";
-import { Model, Types } from "mongoose";
 import {
   CreateMoviesDto,
   findAllFilterDTo,
