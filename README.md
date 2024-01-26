@@ -3,7 +3,7 @@ Follow these steps to get the application up and running:
 1. Clone the Project
 2. Install Dependencies (npm install)
 3. Open the .env file and adjust the configurations accordingly.(DATABASE_URL)
-4. Add seed in mongodb (npm run seed)
+4. Add seed in database (npm run seed)
 5. Start the Application (npm run start)
 6. open http://localhost:3000/doc
    
